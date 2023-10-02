@@ -1,0 +1,7 @@
+C:\Users\Risco\source\repos\Polygon\Polygon\bin\Release\Polygon.exe.config
+C:\Users\Risco\source\repos\Polygon\Polygon\bin\Release\Polygon.exe
+C:\Users\Risco\source\repos\Polygon\Polygon\bin\Release\Polygon.pdb
+C:\Users\Risco\source\repos\Polygon\Polygon\obj\Release\Polygon.csproj.AssemblyReference.cache
+C:\Users\Risco\source\repos\Polygon\Polygon\obj\Release\Polygon.csproj.CoreCompileInputs.cache
+C:\Users\Risco\source\repos\Polygon\Polygon\obj\Release\Polygon.exe
+C:\Users\Risco\source\repos\Polygon\Polygon\obj\Release\Polygon.pdb
